@@ -13,7 +13,7 @@
       <artifactId>sample-lib</artifactId>
       <scope>system</scope>
       <version>1.0-SNAPSHOT</version>
-      <systemPath>/tmp/src/main/webapp/WEB-INF/lib/sample-lib-1.0-SNAPSHOT.jar</systemPath>
+      <systemPath>Workspace/sample-lib-1.0-SNAPSHOT.jar</systemPath>
     </dependency>
     <dependency>
         <groupId>javax.servlet</groupId>
